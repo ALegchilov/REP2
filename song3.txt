@@ -1,1 +1,2 @@
 other words
+added second string
